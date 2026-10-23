@@ -1,0 +1,6 @@
+{
+  "name": "AIBrain - Augment Human Intelligence",
+  "description": "AIBrain connects AI research with practical applications—helping people learn, perform and make more informed decisions through human-centered intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
